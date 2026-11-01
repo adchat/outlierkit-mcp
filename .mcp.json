@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "outlierkit": {
+      "type": "http",
+      "url": "https://outlierkit.com/mcp"
+    }
+  }
+}
